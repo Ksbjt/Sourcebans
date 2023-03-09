@@ -15,9 +15,9 @@ Web端需求：
 ------
 
 
-| 文件名                                                       | 作用           |
-| ------------------------------------------------------------ | -------------- |
-| [includes_chi](https://github.com/Ksbjt/Sourcebans/tree/main/includes_chi/includes) | 侧边栏汉化     |
-| [sourcebans-pp-1.6.3](https://github.com/Ksbjt/Sourcebans/tree/main/sourcebans-pp-1.6.3) | 网站和插件本体 |
-| [theme_star](https://github.com/Ksbjt/Sourcebans/tree/main/theme_star/star) | 主题           |
+| 文件名                                                       | 作用        |
+| ------------------------------------------------------------ | ----------- |
+| [includes_chi](https://github.com/Ksbjt/Sourcebans/tree/main/includes_chi/includes) | 汉化文件    |
+| [sourcebans-pp-1.6.4.Full](https://github.com/Ksbjt/Sourcebans/tree/main/sourcebans-pp-1.6.4.Full) | Web 及 插件 |
+| [theme_star](https://github.com/Ksbjt/Sourcebans/tree/main/theme_star/star) | 主题        |
 
