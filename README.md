@@ -5,7 +5,7 @@
 Web端需求：
 
 - MySQL/[MariaDB](https://sbpp.dev/docs/mariadb) 数据库
-- PHP 版本 >= 5.6 （建议7.2）
+- PHP 版本 >= 5.6 （建议5.6）
 
 游戏服务器端
 
